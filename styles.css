@@ -28,7 +28,6 @@ ul {
     text-align: center;
     background-color: black;
     justify-content: space-evenly;
-    height: 100px;
 }
 
 li a:hover {
