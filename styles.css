@@ -21,7 +21,7 @@ h2{
     padding-top: 20px;
     padding-bottom: 20px;
 }
-#active{
+.navbar #active{
     background-color: unset;
     color: unset;
     background-color: antiquewhite;
