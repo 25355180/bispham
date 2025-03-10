@@ -45,4 +45,6 @@ li a:hover {
 }
 .facebook{
     all: revert;
+    background-color: none;
+    color: black;
 }
