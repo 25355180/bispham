@@ -41,7 +41,7 @@ h2{
     padding-bottom: 20px;
 }
 
-li a:hover {
+.navbar a:hover {
     background-color: antiquewhite;
     color: black;
 }
