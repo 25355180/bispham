@@ -10,7 +10,7 @@ h2{
     display: inline-block;
     background-color: black;
     color: antiquewhite;
-
+    justify-content: space-evenly;
     text-align: center;
 }
 #active{
