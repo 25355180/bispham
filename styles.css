@@ -15,7 +15,6 @@ li {
     text-align: center;
 }
 a {
-    display: inline-block;
     background-color: black;
     color: antiquewhite;
     width: 150px; 
@@ -23,6 +22,7 @@ a {
     text-align: center;
     text-decoration: none;
     font-size: 20px;
+    display:inline-flex;
 }
 ul {
     margin: 0;
