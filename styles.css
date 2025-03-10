@@ -51,6 +51,9 @@ h2{
 }
 
   
+.navbar {
+    overflow: hidden;
+  }
 .navbar .icon {
     display: none;
 }
