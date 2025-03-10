@@ -6,14 +6,14 @@ body{
 h2{
     font-style: italic;
 }
-.navbar li {
+#navigation {
     display: inline-block;
     background-color: black;
     color: antiquewhite;
 
     text-align: center;
 }
-li #active{
+#active{
     background-color: antiquewhite;
     color: black;
 }
