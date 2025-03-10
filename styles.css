@@ -48,6 +48,16 @@ li a:hover {
     color: unset;
 }
 
+
+.navbar a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+  
+  .navbar .icon {
+    display: none;
+}
+
 @media screen and (max-width: 600px) {
     .navbar a:not(:first-child) {display: none;}
     .navbar a.icon {
