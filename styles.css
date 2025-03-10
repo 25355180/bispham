@@ -6,7 +6,7 @@ body{
 h2{
     font-style: italic;
 }
-li {
+.navbar li {
     display: inline-block;
     background-color: black;
     color: antiquewhite;
@@ -17,7 +17,7 @@ li {
     background-color: antiquewhite;
     color: black;
 }
-a {
+.navbar a {
     color: antiquewhite;
     width: 150px; 
     height:50px ;
@@ -29,7 +29,7 @@ a {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-ul {
+#navigation {
     margin: 0;
     display: flex;
     font-weight: bold; 
@@ -65,7 +65,7 @@ li a:hover {
   
 @media screen and (max-width: 600px) {
     .navbar.responsive {position: relative;}
-    .topnav.responsive a.icon {
+    .navbar.responsive a.icon {
       position: absolute;
       right: 0;
       top: 0;
