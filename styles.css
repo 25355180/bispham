@@ -12,6 +12,7 @@ li {
     color: antiquewhite;
     border-right: 1px solid antiquewhite;
     border-left: 1px solid antiquewhite;
+    text-align: center;
 }
 a {
     display: inline-block;
