@@ -15,6 +15,11 @@ h2{
     color: antiquewhite;
     justify-content: space-evenly;
     text-align: center;
+    margin: 0;
+    font-weight: bold; 
+    width: 100%; 
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 #active{
     background-color: unset;
@@ -34,15 +39,7 @@ h2{
     padding-bottom: 20px;
 }
 .navbar {
-    margin: 0;
-    display: flex;
-    font-weight: bold; 
-    width: 100%; 
-    text-align: center;
-    background-color: black;
-    justify-content: space-evenly;
-    padding-top: 20px;
-    padding-bottom: 20px;
+
 }
 
 .navbar a:hover {
