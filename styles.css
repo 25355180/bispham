@@ -18,8 +18,7 @@ h2{
     margin: 0;
     font-weight: bold; 
     width: 100%; 
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 #navigation #active{
     background-color: unset;
