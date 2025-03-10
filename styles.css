@@ -10,8 +10,7 @@ li {
     display: inline-block;
     background-color: black;
     color: antiquewhite;
-    border-right: 1px solid antiquewhite;
-    border-left: 1px solid antiquewhite;
+
     text-align: center;
 }
 a {
@@ -26,7 +25,6 @@ a {
 }
 ul {
     margin: 0;
-    padding: 0;
     display: flex;
     font-weight: bold; 
     width: 100%; 
@@ -35,6 +33,8 @@ ul {
     justify-content: space-evenly;
     padding-top: 20px;
     padding-bottom: 20px;
+    border-right: 1px solid antiquewhite;
+    border-left: 1px solid antiquewhite;
 }
 
 li a:hover {
