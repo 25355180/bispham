@@ -43,3 +43,6 @@ li a:hover {
     background-color: antiquewhite;
     color: black;
 }
+.facebook{
+    all: revert;
+}
