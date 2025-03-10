@@ -10,8 +10,8 @@ li {
     border-right: 1px solid antiquewhite;
     border-left: 1px solid antiquewhite;
     text-align: center;
-    justify-content: space-between;
-    height: 100px;
+    justify-content: space-around;
+
 }
 a {
     display: inline;
