@@ -18,6 +18,9 @@ a {
     background-color: black;
     color: antiquewhite;
     width: 100%; 
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
 ul {
     margin: 0;
