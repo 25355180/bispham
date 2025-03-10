@@ -1,0 +1,36 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    background-color: lightblue;
+
+}
+li {
+    display: inline-block;
+    background-color: black;
+    color: antiquewhite;
+    border-right: 1px solid antiquewhite;
+    border-left: 1px solid antiquewhite;
+    text-align: center;
+    justify-content: space-between;
+}
+a {
+    display: inline;
+    background-color: black;
+    color: antiquewhite;
+    width: 100%; 
+}
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    font-weight: bold; 
+    width: 100%; 
+    text-align: center;
+    background-color: black;
+    justify-content: space-evenly;
+    height: 100px;
+}
+
+li a:hover {
+    background-color: antiquewhite;
+    color: black;
+}
