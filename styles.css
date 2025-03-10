@@ -3,6 +3,9 @@ body{
     background-color: lightblue;
 
 }
+h2{
+    font-style: italic;
+}
 li {
     display: inline-block;
     background-color: black;
