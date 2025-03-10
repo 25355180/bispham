@@ -9,12 +9,9 @@ li {
     color: antiquewhite;
     border-right: 1px solid antiquewhite;
     border-left: 1px solid antiquewhite;
-    text-align: center;
-    justify-content: space-around;
-
 }
 a {
-    display: inline;
+    display: inline-block;
     background-color: black;
     color: antiquewhite;
     width: 100%; 
