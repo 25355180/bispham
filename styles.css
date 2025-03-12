@@ -26,7 +26,7 @@ h2{
 }
 .fa {
     padding: 20px;
-
+    font-size: 60px;
     width: 40px;
     text-align: center;
     text-decoration: none;
@@ -35,7 +35,6 @@ h2{
 .fa-facebook {
     background: #1877F2;
     color: white;
-    font-size: 60px;
 }
 .navbar a.active{
     background-color: antiquewhite;
