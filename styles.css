@@ -73,6 +73,6 @@ h2{
     .navbar.responsive a {
       float: none;
       display: block;
-
+      flex-direction: column;
     }
 }
