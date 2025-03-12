@@ -70,7 +70,7 @@ header{
     color: black;
     font-weight: bold;
 }
-#formcontainer{
+form {
     display: flex;
     flex-direction: column;
 }
