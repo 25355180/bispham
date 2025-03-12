@@ -21,8 +21,6 @@ h2{
     padding-bottom: 30px;
 }
 #navigation #active{
-    background-color: unset;
-    color: unset;
     background-color: antiquewhite;
     color: black;
 }
@@ -33,7 +31,7 @@ h2{
     text-align: center;
     text-decoration: none;
     font-size: 30px;
-    display: block;
+
     padding-top: 20px;
     padding-bottom: 20px;
 }
