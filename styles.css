@@ -69,6 +69,8 @@ header{
     background-color: antiquewhite;
     color: black;
     font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 form {
     display: flex;
