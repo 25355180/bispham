@@ -67,12 +67,12 @@ h2{
     .navbar.responsive a.icon {
       position: absolute;
       right: 0;
-      display: block;
+      display: flex;
+      flex-direction: column;
       top: 0;
     }
     .navbar.responsive a {
       float: none;
       display: flex;
-      flex-direction: column;
     }
 }
