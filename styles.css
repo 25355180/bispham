@@ -52,6 +52,8 @@ h2{
   }
 .navbar .icon {
     display: none;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 @media screen and (max-width: 600px) {
