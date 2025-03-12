@@ -23,7 +23,17 @@ h2{
     text-align: center;
     margin: 0;
     font-weight: bold; 
-
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-facebook {
+    background: #1877F2;
+    color: white;
 }
 .navbar a.active{
     background-color: antiquewhite;
