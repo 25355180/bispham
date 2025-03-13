@@ -41,7 +41,8 @@ h2{
     display: inline-flex;
     justify-content: space-between;
     width: 50%;
-    padding-right: 50px; ;
+    height: fit-content;
+    padding-right: 50px;
 }
 #contact{
     font-size: 30px;
@@ -125,7 +126,7 @@ label{
     }
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .fbreviews {
         display: flex;
         flex-direction: column;
@@ -134,5 +135,6 @@ label{
     .fbreviews iframe {
         width: 100%;
         padding-bottom: 50px;
+        height: auto;
     }
 }
