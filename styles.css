@@ -41,6 +41,7 @@ h2{
     display: inline-flex;
     justify-content: space-between;
     width: 50%;
+    padding-right: 50px; ;
 }
 #contact{
     font-size: 30px;
