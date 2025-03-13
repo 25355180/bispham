@@ -40,6 +40,7 @@ h2{
 #reviews{
     display: inline-flex;
     justify-content: space-between;
+    width: 50%;
 }
 #contact{
     font-size: 30px;
