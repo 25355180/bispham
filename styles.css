@@ -125,9 +125,12 @@ label{
 }
 
 @media (max-width: 600px) {
-    .fbreviews iframe {
-        position: relative;
+    .fbreviews {
         display: flex;
         flex-direction: column;
+        position: relative;
     }
-  }
+    .fbreviews iframe {
+        width: 100%;
+    }
+}
