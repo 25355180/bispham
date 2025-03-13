@@ -41,7 +41,7 @@ iframe{
     display: inline-flex;
     justify-content: space-between;
     width: 50%;
-    height: fit-content;
+    height: auto;
     padding-right: 50px;
 }
 #contact{
@@ -135,6 +135,6 @@ label{
     .fbreviews iframe {
         width: 100%;
         padding-bottom: 50px;
-        height: auto;
+        height: fit-content;
     }
 }
