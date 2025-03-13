@@ -33,6 +33,7 @@ h2{
     border-radius: 50%;
     font-weight: bolder;
     display: inline-block;
+    padding: 20px;
 }
 #facebook {
     background: #1877F2;
