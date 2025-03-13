@@ -18,6 +18,7 @@ h2{
 #logo{
     background-color: black;
     color: antiquewhite;
+    display: inline;
 }
 #navigation {
     display: flex;
