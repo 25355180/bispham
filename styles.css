@@ -69,14 +69,14 @@ h2{
     padding-right: 10px;
 }
 footer{
-    border-top: 1px black;
-    background-color: antiquewhite;
-    color: black;
+    border-top: 1px antiquewhite;
+    background-color: black;
+    color: antiquewhite;
     font-weight: bold;
     
 }
 header{
-    border-top: 1px black;
+    border-top: 1px antiquewhite;
     font-weight: bold;
 }
 form {
