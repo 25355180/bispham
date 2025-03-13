@@ -24,13 +24,14 @@ h2{
     margin: 0;
     font-weight: bold; 
 }
-.fa-facebook {
+.fa {
     padding: 20px;
     font-size: 60px;
     width: 30px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
+    font-weight: bolder;
 }
 #facebook {
     background: #1877F2;
