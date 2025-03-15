@@ -16,12 +16,12 @@ h1{
 h2{
     font-style: italic;
     margin-right: 70px;
-    color: rgb(206, 125, 125);
+    
 
 }
 #logo{
     background-color: black;
-    color: antiquewhite;
+    color: rgb(206, 125, 125);
     display: flex;
     justify-content: space-between;
     align-items: center;
