@@ -96,7 +96,7 @@ iframe{
 }
 #facebook {
     background: #1877F2;
-    float: bottom;
+    margin-top: 3px;
     color: white;
 /* sets the styles and positions for the facebook button*/
 }
