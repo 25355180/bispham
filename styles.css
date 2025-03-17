@@ -1,6 +1,7 @@
 body{
     font-family: "Open Sans", sans-serif;
     background-color: rgb(81, 193, 191);
+    /* sets body styles */
 }
 h1{
     font-weight: bold;
@@ -12,25 +13,30 @@ h1{
     padding-left: 20px;
     border: 3px antiquewhite;
     font-size: 50px;
+    /* sets h1 styles */
 }
 h2{
     font-style: italic;
     margin-right: 70px;
     margin-left: 10px;
+        /* sets h2 styles */
 }
 img{
     width: 100%;
     height: auto;
+        /* makes images responsive */
 }
 #cask{
     width: 400px;
     height: auto;
+        /* sets size of cask image*/
 }
 #bowling{
     width: 40%;
     height: auto;
     margin-left: 10px;
     float: right;
+    /* sets size of bowling green image*/
 }
 #sign{
     width: 30%;
@@ -38,6 +44,7 @@ img{
     margin-left: 10px;
     margin-top: 40px;
     float: right;
+    /* sets size of bispham sign*/
 }
 
 #logo{
@@ -46,6 +53,7 @@ img{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    /* sets the styles and positions for the logo*/
 }
 #navigation {
     display: flex;
@@ -56,9 +64,9 @@ img{
     margin: 0;
     font-weight: bold; 
     border: 3px antiquewhite;
+    /* sets the styles and positions for the wide screen navbar*/
 }
 .social {
-
     font-size: 30px;
     width: 40px;
     height: 40px;
@@ -67,7 +75,7 @@ img{
     border-radius: 50%;
     font-weight: bolder;
     display: inline-block;
-
+/* sets the styles and positions for the facebook button*/
 }
 iframe{
     display: inline-flex;
@@ -75,64 +83,76 @@ iframe{
     width: 50%;
     height: auto;
     padding-bottom: 50px;
+    /* sets the styles and positions for the embedded facebook posts*/
 }
 #contact{
     font-size: 30px;
     margin-top: 9px;
+    /* sets the styles and positions for the contacts book icon*/
 }
 #facebook {
     background: #1877F2;
     padding-top: 5px;
     color: white;
+/* sets the styles and positions for the facebook button*/
 }
 .navbar a.active{
     background-color: antiquewhite;
     color: black;
+        /* sets the styles and positions for the active page on the wide screen navbar*/
 }
 .navbar a {
     color: antiquewhite;
-
     text-align: center;
     text-decoration: none;
     font-size: 30px;
     padding-top: 20px;
     padding-bottom: 20px;
     display: flex;
+        /* sets the styles and positions for the links on the wide screen navbar*/
 }
 .navbar .icon {
     display: none;
+        /* hides navbar icon when widescreen*/
   }
 
 .navbar a:hover {
     background-color: antiquewhite;
     color: black;
+            /* sets the styles and positions for the links you hover over on the wide screen navbar*/
 }
 .navbar {
     overflow: hidden;
+            /* doesnt allow text to overflow*/
   }
 .navbar .icon {
     display: none;
     padding-left: 10px;
     padding-right: 10px;
+            /* sets the styles and position for the navbar icon on the small screen navbar*/
 }
 footer{
     border: 3px antiquewhite;
     background-color: black;
     color: antiquewhite;
     font-weight: bold;
+            /* sets the footer styles*/
     
 }
 header{
     border: 3px antiquewhite;
     font-weight: bold;
+    /* sets the header styles*/
 }
 form {
     display: flex;
     flex-direction: column;
     width: 50%;
+    /* sets the contact form style*/
 }
 label{
     font-weight: bold;
+        /* sets the contact form lables style*/
 }
 @media screen and (max-width: 600px) {
     .navbar a:not(:first-child) {display: none;}
@@ -140,21 +160,22 @@ label{
       float: right;
       display: block;
     }
-}
+}    /* changes the navbar to just show home when screen is small*/
   
 @media screen and (max-width: 600px) {
     .navbar.responsive {
         position: relative;
         display: flex;
-        flex-direction: column;}
+        flex-direction: column;}    /* sets the position of the items in the small screen nav bar to display in a column*/
     .navbar.responsive a.icon {
-      position: absolute;
+      position: absolute;    /* sets the position of the small screen nav bar icon*/
       right: 0;
       top: 0;
     }
     .navbar.responsive a {
       float: none;
       display: flex;
+      /* sets the position of the small screen nav bar */
     }
 }
 
@@ -163,12 +184,12 @@ label{
         display: flex;
         flex-direction: column;
         position: relative;
-    }
+    }/* sets the position of the facebook reviews to change when screen size changes*/
     .fbreviews iframe {
         width: 100%;
         padding-bottom: 50px;
         display: flex;
         height: 500px;
         overflow-y: scroll;
-    }
+    }/* sets the size of the facebook reviews to change when screen size changes*/
 }
