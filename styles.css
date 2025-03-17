@@ -21,6 +21,10 @@ img{
     width: 100%;
     height: auto;
 }
+#cask{
+    width: 400px;
+    height: auto;
+}
 #logo{
     background-color: black;
     color: rgb(206, 125, 125);
