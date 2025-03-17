@@ -30,11 +30,7 @@ img{
     height: auto;
     margin-left: 10px;
 }
-#bowl{
-    display: flex;
-    flex-direction: row; 
-    align-items: center;
-}
+
 #logo{
     background-color: black;
     color: rgb(206, 125, 125);
