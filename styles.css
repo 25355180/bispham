@@ -29,7 +29,7 @@ img{
     width: 40%;
     height: auto;
     margin-left: 10px;
-    flex-direction: right;
+    float: right;
 }
 #bowl{
     display: flex;
