@@ -33,6 +33,7 @@ img{
 #bowl{
     display: flex;
     justify-content: space-between;
+    flex-direction: column;
 }
 #logo{
     background-color: black;
