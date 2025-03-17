@@ -28,8 +28,10 @@ img{
 #bowling{
     width: 400px;
     height: auto;
-    float: right;
     margin-left: 10px;
+    display: inline-block;
+}
+#bowl{
     display: inline-block;
 }
 #logo{
