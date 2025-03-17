@@ -187,14 +187,13 @@ label{
     .fbreviews {
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
 
     }/* sets the position of the facebook reviews to change when screen size changes*/
     .fbreviews iframe {
         width: 100%;
         margin-bottom: 10px;
         display: flex;
-        height: 500px;
+        height: 450px;
         overflow-y: scroll;
     }/* sets the size of the facebook reviews to change when screen size changes*/
 }
