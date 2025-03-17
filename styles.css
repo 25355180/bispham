@@ -29,11 +29,11 @@ img{
     width: 40%;
     height: auto;
     margin-left: 10px;
-    float: right;
 }
 #bowl{
     display: flex;
-    flex-direction: column;
+    flex-direction: row; 
+    align-items: center;
 }
 #logo{
     background-color: black;
