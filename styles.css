@@ -32,7 +32,7 @@ img{
 }
 #bowl{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 #logo{
     background-color: black;
