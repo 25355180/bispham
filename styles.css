@@ -187,6 +187,7 @@ label{
     .fbreviews {
         display: flex;
         flex-direction: column;
+        height: 350px;
 
     }/* sets the position of the facebook reviews to change when screen size changes*/
     .fbreviews iframe {
