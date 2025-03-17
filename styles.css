@@ -30,6 +30,7 @@ img{
     height: auto;
     margin-left: 10px;
     float: right;
+    display: flex;
 }
 #bowl{
     display: inline-block;
