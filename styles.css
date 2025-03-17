@@ -29,10 +29,10 @@ img{
     width: 40%;
     height: auto;
     margin-left: 10px;
+    float: right;
 }
 #bowl{
     display: flex;
-    justify-content: space-between;
     flex-direction: column;
 }
 #logo{
