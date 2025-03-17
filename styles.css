@@ -31,6 +31,12 @@ img{
     margin-left: 10px;
     float: right;
 }
+#sign{
+    width: 40%;
+    height: auto;
+    margin-left: 10px;
+    float: right;
+}
 
 #logo{
     background-color: black;
