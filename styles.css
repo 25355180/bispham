@@ -29,7 +29,7 @@ img{
     width: 400px;
     height: auto;
     margin-left: 10px;
-    display: inline-block;
+    float: right;
 }
 #bowl{
     display: inline-block;
