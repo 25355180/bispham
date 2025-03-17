@@ -26,10 +26,9 @@ img{
     height: auto;
 }
 #bowling{
-    width: 500px;
+    width: 400px;
     height: auto;
     margin-left: 10px;
-    float: right;
 }
 #bowl{
     display: flex;
