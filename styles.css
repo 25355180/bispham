@@ -44,7 +44,6 @@ img{
     width: 20%;
     height: auto;
     margin-left: 10px;
-    float: right;
     flex-wrap: wrap;
     /* sets size of bowling green image*/
 }
@@ -52,6 +51,7 @@ img{
     width: 300px;
     height: auto;
     flex-wrap: wrap;
+    float: right;
         /* sets size of cask image*/
 }
 #logo{
