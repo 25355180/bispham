@@ -37,7 +37,7 @@ img{
     color: antiquewhite;
 }
 #beer{
-    width: 300px;
+    width: 320px;
     height: auto;
     display: flex;
     flex-wrap: wrap;
