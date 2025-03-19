@@ -33,7 +33,7 @@ img{
 #phone{
     color: antiquewhite;
 }
-#cask{
+#beer{
     width: 400px;
     height: auto;
         /* sets size of cask image*/
@@ -45,15 +45,11 @@ img{
     float: right;
     /* sets size of bowling green image*/
 }
-#sign{
-    width: 30%;
+#trophy{
+    width: 400px;
     height: auto;
-    margin-left: 10px;
-    margin-top: 40px;
-    float: right;
-    /* sets size of bispham sign*/
+        /* sets size of cask image*/
 }
-
 #logo{
     background-color: black;
     color: rgb(206, 125, 125);
@@ -154,7 +150,8 @@ header{
 form {
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 70%;
+    align-self: center;
     /* sets the contact form style*/
 }
 label{
