@@ -63,7 +63,7 @@ img{
         /* sets size of cask image*/
 }
 #opening{
-    justify-content: right;
+    justify-self: right;
     margin-left: 10px;
 }
 #logo{
