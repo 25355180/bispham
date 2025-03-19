@@ -66,6 +66,7 @@ img{
 #opening{
     float: right;
     margin-left: 10px;
+    margin-right: 10px;
 }
 #logo{
     background-color: black;
