@@ -36,6 +36,7 @@ img{
 #beer{
     width: 400px;
     height: auto;
+    float: right;
         /* sets size of cask image*/
 }
 #bowling{
