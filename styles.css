@@ -38,7 +38,7 @@ img{
     height: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-self: right;
+    float: left;
         /* sets size of cask image*/
 }
 #bowling{
