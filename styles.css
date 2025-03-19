@@ -151,7 +151,6 @@ form {
     display: flex;
     flex-direction: column;
     width: 70%;
-    align-self: center;
     /* sets the contact form style*/
 }
 label{
