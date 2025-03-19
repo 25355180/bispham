@@ -49,6 +49,7 @@ img{
     display: flex;
     flex-wrap: wrap;
     justify-self: center;
+    margin-top: 10px;
     /* sets size of bowling green image*/
 }
 #trophy{
