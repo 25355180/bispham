@@ -44,7 +44,8 @@ img{
 #bowling{
     width: 60%;
     height: auto;
-    margin-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
     flex-wrap: wrap;
     justify-self: center;
