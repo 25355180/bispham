@@ -39,6 +39,7 @@ img{
     display: flex;
     flex-wrap: wrap;
     float: left;
+    margin-right: 10px;
         /* sets size of cask image*/
 }
 #bowling{
