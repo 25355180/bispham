@@ -34,7 +34,7 @@ img{
     color: antiquewhite;
 }
 #beer{
-    width: 400px;
+    width: 300px;
     height: auto;
     display: flex;
     flex-wrap: wrap;
@@ -53,7 +53,7 @@ img{
     /* sets size of bowling green image*/
 }
 #trophy{
-    width: 300px;
+    width: 280px;
     height: auto;
     display: flex;
     flex-wrap: wrap;
