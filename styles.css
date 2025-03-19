@@ -21,6 +21,9 @@ h2{
     margin-left: 10px;
         /* sets h2 styles */
 }
+p{
+    margin-right: 10px;
+}
 a{
     color: black;
     font-weight: bold;
