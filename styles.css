@@ -37,17 +37,21 @@ img{
     width: 400px;
     height: auto;
     float: right;
+    flex-wrap: wrap;
         /* sets size of cask image*/
 }
 #bowling{
     width: 20%;
     height: auto;
     margin-left: 10px;
+    float: right;
+    flex-wrap: wrap;
     /* sets size of bowling green image*/
 }
 #trophy{
     width: 300px;
     height: auto;
+    flex-wrap: wrap;
         /* sets size of cask image*/
 }
 #logo{
