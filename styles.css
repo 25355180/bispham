@@ -38,6 +38,7 @@ img{
     height: auto;
     display: flex;
     flex-wrap: wrap;
+    justify-self: right;
         /* sets size of cask image*/
 }
 #bowling{
@@ -46,7 +47,7 @@ img{
     margin-left: 10px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-self: center;
     /* sets size of bowling green image*/
 }
 #trophy{
