@@ -57,7 +57,7 @@ img{
     height: auto;
     display: flex;
     flex-wrap: wrap;
-    justify-self: left;
+    float: left;
         /* sets size of cask image*/
 }
 #logo{
