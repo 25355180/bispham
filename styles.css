@@ -36,7 +36,7 @@ img{
 #beer{
     width: 400px;
     height: auto;
-    float: right;
+    display: flex;
     flex-wrap: wrap;
         /* sets size of cask image*/
 }
@@ -44,12 +44,14 @@ img{
     width: 20%;
     height: auto;
     margin-left: 10px;
+    display: flex;
     flex-wrap: wrap;
     /* sets size of bowling green image*/
 }
 #trophy{
     width: 300px;
     height: auto;
+    display: flex;
     flex-wrap: wrap;
     float: right;
         /* sets size of cask image*/
