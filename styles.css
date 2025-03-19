@@ -30,6 +30,9 @@ img{
     height: auto;
         /* makes images responsive */
 }
+#phone{
+    color: antiquewhite;
+}
 #cask{
     width: 400px;
     height: auto;
