@@ -166,6 +166,7 @@ footer{
 }
 button{
     padding: 10px;/* sets the button style*/
+    height: 40px;
 }
 header{
     border: 3px antiquewhite;
