@@ -7,6 +7,19 @@ body{
 }
 h1{
     font-weight: bold;
+    /* sets h1 styles */
+}
+#slogan{
+    margin-right: 70px;
+    margin-left: 10px;
+    font-size: 30px;
+        /* sets h2 styles */
+}
+h2{
+    font-weight: bold;
+}
+#mainLogo{
+    font-weight: bold;
     background-color: black;
     color: antiquewhite;
     font-style: italic;
@@ -15,12 +28,6 @@ h1{
     padding-left: 20px;
     border: 3px antiquewhite;
     font-size: 50px;
-    /* sets h1 styles */
-}
-h2{
-    margin-right: 70px;
-    margin-left: 10px;
-        /* sets h2 styles */
 }
 p{
     margin-right: 10px;
