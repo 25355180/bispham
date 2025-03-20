@@ -152,8 +152,6 @@ iframe{
 .navbar a:hover {
     background-color: antiquewhite;
     color: black;
-    margin-left: 10px;
-    margin-right: 10px;
             /* sets the styles and positions for the links you hover over on the wide screen navbar*/
 }
 .navbar {
