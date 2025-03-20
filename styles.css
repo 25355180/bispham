@@ -183,6 +183,9 @@ form {
 input[type="text"], textarea {
     height: 40px; /* sets height of form inputs*/
 }
+input[type="submit"], textarea {
+    height: 40px; /* sets height of form inputs*/
+}
 label{
     font-weight: bold;
         /* sets the contact form lables style*/
