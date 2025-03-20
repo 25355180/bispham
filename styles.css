@@ -172,7 +172,7 @@ header{
 form {
     display: flex;
     flex-direction: column;
-    width: 50%;
+    width: 60%;
     /* sets the contact form style*/
 }
 label{
