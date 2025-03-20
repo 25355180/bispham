@@ -164,6 +164,9 @@ footer{
             /* sets the footer styles*/
     
 }
+button{
+    padding: 10px;
+}
 header{
     border: 3px antiquewhite;
     font-weight: bold;
