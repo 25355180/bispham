@@ -176,6 +176,7 @@ form {
     display: flex;
     flex-direction: column;
     width: 60%;
+    padding: 10px;
     /* sets the contact form style*/
 }
 label{
