@@ -109,9 +109,10 @@ img{
     background-color: black;
     color: rgb(206, 125, 125);
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     font-style: italic;
+    flex-direction: column;
     /* sets the styles and positions for the logo*/
 }
 #navigation {
