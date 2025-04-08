@@ -203,6 +203,9 @@ button{
 header{
     border: 3px antiquewhite;
     font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     /* sets the header styles*/
 }
 form {
