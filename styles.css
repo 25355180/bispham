@@ -70,6 +70,14 @@ img{
     margin-top: 10px;
     /* sets size of bowling green image*/
 }
+#sign{
+    width: 50%;
+    height: auto;
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10px;
+}
 #trophy{
     width: 280px;
     height: auto;
@@ -77,8 +85,9 @@ img{
     flex-wrap: wrap;
     float: left;
     border-radius: 5px;
+    margin-left: 10px;
     margin-right: 10px;
-        /* sets size of cask image*/
+        /* sets size of image*/
 }
 #opening{
     float: right;
