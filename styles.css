@@ -78,6 +78,14 @@ img{
     flex-wrap: wrap;
     margin-right: 10px;
 }
+#cask{
+    width: 30%;
+    height: auto;
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10px;
+}
 #trophy{
     width: 280px;
     height: auto;
