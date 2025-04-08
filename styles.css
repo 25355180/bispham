@@ -10,6 +10,10 @@ h1{
     font-weight: bold;
     margin-left: 10px;
     margin-right: 10px;
+    background-color: rgb(2, 4, 50);
+    color: rgb(179, 246, 243);
+    display: flex;
+    justify-content: center;
     /* sets h1 styles */
 }
 #slogan{
@@ -24,7 +28,8 @@ h2{
     margin-right: 10px;
     background-color: rgb(2, 4, 50);
     color: rgb(179, 246, 243);
-    align-self: center;
+    display: flex;
+    justify-content: center;
 }
 #mainLogo{
     font-weight: bold;
