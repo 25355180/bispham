@@ -20,6 +20,8 @@ h2{
     font-weight: bold;
     margin-left: 10px;
     margin-right: 10px;
+    background-color: rgb(2, 4, 50);
+    color: rgb(179, 246, 243);
 }
 #mainLogo{
     font-weight: bold;
