@@ -13,8 +13,6 @@ h1{
     /* sets h1 styles */
 }
 #slogan{
-    margin-right: 70px;
-    margin-left: 10px;
     font-size: 30px;
         /* sets h2 styles */
 }
@@ -28,10 +26,8 @@ h2{
     background-color: black;
     color: antiquewhite;
     font-style: italic;
-    padding-top: 10px;
-    padding-bottom: 10px;
     border: 3px antiquewhite;
-    font-size: 50px;
+    font-size: 60px;
     display: flex;
     flex-direction: column;
     justify-content: center;
