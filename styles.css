@@ -17,7 +17,7 @@ h1{
     /* sets h1 styles */
 }
 #slogan{
-    font-size: 30px;
+    font-size: 40px;
     background-color: rgb(2, 4, 50);
     color: rgb(179, 246, 243);
         /* sets h2 styles */
@@ -45,7 +45,7 @@ h2{
 p{
     margin-left: 10px;
     margin-right: 10px;
-    font-size: 30px;
+    font-size: 20px;
 }
 a{
     color: black;
