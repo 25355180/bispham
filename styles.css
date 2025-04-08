@@ -54,6 +54,7 @@ a{
 img{
     width: 100%;
     height: auto;
+    z-index: 2;
         /* makes images responsive */
 }
 #phoneno{
