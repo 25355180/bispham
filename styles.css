@@ -37,7 +37,7 @@ h2{
     color: antiquewhite;
     font-style: italic;
     border: 3px antiquewhite;
-    font-size: 60px;
+    font-size: 70px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -45,7 +45,7 @@ h2{
 p{
     margin-left: 10px;
     margin-right: 10px;
-    font-size: medium;
+    font-size: 30px;
 }
 a{
     color: black;
