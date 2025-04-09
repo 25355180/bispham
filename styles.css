@@ -37,7 +37,6 @@ h2{
     background-color: rgb(2, 4, 50);
     color: antiquewhite;
     font-style: italic;
-    border: 3px antiquewhite;
     font-size: 70px;
     display: flex;
     flex-direction: column;
