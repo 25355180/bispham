@@ -87,7 +87,7 @@ img{
     display: flex;
     flex-wrap: wrap;
     margin-right: 10px;
-}
+}/* sets size of image*/
 #cask{
     width: 30%;
     height: auto;
@@ -95,7 +95,7 @@ img{
     display: flex;
     flex-wrap: wrap;
     margin-right: 10px;
-}
+}/* sets size of image*/
 #trophy{
     width: 280px;
     height: auto;
@@ -153,16 +153,19 @@ iframe{
     /* sets the styles and positions for the embedded facebook posts*/
 }
 #contact{
-    font-size: 30px;
+    font-size: 25px;
     margin-top: 9px;
     /* sets the styles and positions for the contacts book icon*/
 }
 #people{
     width: 40%;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
-    justify-content: center;
-}
+    flex-wrap: wrap;
+    justify-self: center;
+}/*sets image style*/
 #facebook {
     background: #1877F2;
     text-align: center;
