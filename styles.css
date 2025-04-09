@@ -157,6 +157,10 @@ iframe{
     margin-top: 9px;
     /* sets the styles and positions for the contacts book icon*/
 }
+#people{
+    width: 50%;
+    height: auto;
+}
 #facebook {
     background: #1877F2;
     text-align: center;
