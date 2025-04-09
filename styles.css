@@ -166,6 +166,15 @@ iframe{
     flex-wrap: wrap;
     justify-self: center;
 }/*sets image style*/
+#artists{
+    width: 40%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-self: center;
+}/*sets image style*/
 #facebook {
     background: #1877F2;
     text-align: center;
