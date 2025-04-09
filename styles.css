@@ -160,6 +160,7 @@ iframe{
 #people{
     width: 50%;
     height: auto;
+    align-self: center;
 }
 #facebook {
     background: #1877F2;
