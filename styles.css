@@ -66,6 +66,8 @@ img{
     display: flex;
     flex-wrap: wrap;
     float: left;
+    border-radius: 5px;
+    margin-left: 10px;
     margin-right: 10px;
         /* sets size of cask image*/
 }
@@ -78,6 +80,9 @@ img{
     flex-wrap: wrap;
     justify-self: center;
     margin-top: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
     /* sets size of bowling green image*/
 }
 #sign{
@@ -86,6 +91,8 @@ img{
     float: right;
     display: flex;
     flex-wrap: wrap;
+    border-radius: 5px;
+    margin-left: 10px;
     margin-right: 10px;
 }/* sets size of image*/
 #cask{
@@ -94,6 +101,8 @@ img{
     float: right;
     display: flex;
     flex-wrap: wrap;
+    border-radius: 5px;
+    margin-left: 10px;
     margin-right: 10px;
 }/* sets size of image*/
 #trophy{
